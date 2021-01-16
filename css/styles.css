@@ -1,0 +1,31 @@
+
+body 
+{
+background-color: #E3C9C9;
+}
+hr{
+ border-style: none;
+ border-top-style: dotted;
+ border-color: #CCCCCC;
+ border-width: 5px;
+ width: 6%;
+}
+h1{
+ color: #668E8F;
+ font-size: 70px;
+ text-align: center;
+}
+
+h2,h3{
+color: #668E8F;
+opacity: 1.0;
+text-align: center;
+}
+
+#para1 {
+     text-align: center; /*This has no particular responsibility in our main index.html*/
+}
+p.para1 {
+text-align: center;
+}
+
